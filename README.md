@@ -2,7 +2,7 @@
 
 **MAKADOS BY MAKADESHWAR** is an advanced HTTP DoS tool written in Python 3.
 ###### MAKE SURE YOU YOUSE THIS TOOL ETHICALLY AND DONT EXPLOIT IT 
-###### WHOEVER USES THIS TOOL IS RESPONSIBLE FOR OF THERE OWN
+###### WHOEVER USES THIS TOOL IS RESPONSIBLE OF THERE OWN
 It features GET/POST flooding, proxy rotation, Tor support, multithreading, logging, and silent mode.
 
 ---
